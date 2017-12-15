@@ -73,35 +73,6 @@
 185.22.174.254]
 122.231.8.220
 79.137.84.144
-$file            at /usr/bin/file
-$altermime       at /usr/bin/altermime
-decoder for    .Z    at /bin/uncompress
-decoder for    .gz   at /bin/gzip -d
-decoder for    .bz2  at /bin/bzip2 -d
-decoder for    .xz   at /usr/bin/xz -dc
-decoder for    .lzma at /usr/bin/xz -dc --format=lzma
--o -
-decoder for    .lzo  at /usr/bin/lzop -d
-decoder for    .lz4  at /usr/bin/lz4c -d
-decoder for    .rpm  at /usr/bin/rpm2cpio
-decoder for    .cpio at /bin/pax
-decoder for    .tar  at /bin/pax
-decoder for    .deb  at /usr/bin/ar
-decoder for    .rar  at /usr/bin/unrar-free
-decoder for    .arj  at /usr/bin/arj
-decoder for    .arc  at /usr/bin/nomarch
-decoder for    .zoo  at /usr/bin/zoo
-decoder for    .doc  at /usr/bin/ripole
-decoder for    .cab  at /usr/bin/cabextract
-decoder for    .zip  at /usr/bin/7za
-decoder for    .kmz  at /usr/bin/7za
-decoder for    .7z   at /usr/bin/7za
-decoder for    .jar  at /usr/bin/7z
-decoder for    .swf  at /usr/bin/7z
-decoder for    .lha  at /usr/bin/7z
-decoder for    .iso  at /usr/bin/7z
-decoder for    .exe  at /usr/bin/unrar-free; /usr/bin/arj
-secondary av scanner ClamAV-clamscan at /usr/bin/clamscan
 45.55.176.164
 221.125.150.89
 185.188.207.13
@@ -111,7 +82,6 @@ secondary av scanner ClamAV-clamscan at /usr/bin/clamscan
 46.214.220.198
 111.8.177.200
 176.124.30.188
-device /sys/subsystem/net/devices/venet0.
 111.8.177.200]
 176.124.30.188]
 121.18.238.123
